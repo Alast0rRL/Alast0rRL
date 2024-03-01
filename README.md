@@ -125,6 +125,7 @@
 <a href="https://stackoverflow.com/users/alast0r" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
+[![Static Badge](https://img.shields.io/badge/-Discord-818FFD?style=for-the-badge&logo=Discord)](https://discord.gg/rxuhdzeC)
 </div>  
   
 
@@ -136,11 +137,7 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
+ 
 
 <br/>  
 
