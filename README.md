@@ -126,7 +126,7 @@
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 <a href="https://discord.gg/rxuhdzeC" target="_blank">
-<img src =https://img.shields.io/badge/-Discord-818FFD?style=for-the-badge&logo=Discord=white alt=discord style="margin-bottom: 5px;" />
+<img src =https://img.shields.io/badge/-Discord-818FFD?style=for-the-badge&logo=Discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
 </div>  
   
 
