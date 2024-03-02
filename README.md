@@ -10,7 +10,11 @@
 - 👀I look for interesting and challenging projects where I can apply my creativity and technical experience.  
   
 
-- ❓If you want to contact me, you can write to me on social networks  
+- ❓If you want to contact me, you can write to me on social networks
+  email: eshenkove@gmail.com
+  tg: @Alast0r_tg
+  discord: alastor_rl
+  
   
 
 <br/>  
